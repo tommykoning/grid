@@ -6,7 +6,8 @@ body {
 
 .frame{
 	background-color: rgba(0,128,0,0.4);
-	
+	margin: 0px 20% 0px 20%;
+	padding: 1.5% 0px 1.5% 0px;
 	/* put css-rules in this ccs-block here below */
 	
 }
@@ -14,6 +15,8 @@ body {
 h1{
 	background-color: rgba(0,32,0,0.4);
 	line-height: 40px;
+	margin: 0px 1%;
+	padding: 2% 0% 3% 2%;
 	
 	/* put css-rules in this ccs-block here below */
 	
@@ -21,7 +24,10 @@ h1{
 
 h2 {
 	line-height: 30px;
-	
+	border-style: solid;
+	border-color: purple;
+	margin: 10px;
+	padding: 10px 20px;
 	/* put css-rules in this ccs-block here below */
 	
 }
@@ -29,6 +35,8 @@ h2 {
 p{
 	background-color: rgba(256,256,0,0.4);
 	line-height: 20px;
+	margin: 1% 1%;
+	padding: 0px 1% 0px 1%; 
 	
 	/* put css-rules in this ccs-block here below */
 
